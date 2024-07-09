@@ -1,6 +1,7 @@
 ## Overview
+![OIG4 IW](https://github.com/Sundaraiah-YR/Bike_Share_Metrics/assets/173929318/b2ee6d94-20a7-4465-a9f8-14bd1cbc8898)
 
-![Untitled design](https://github.com/theliwash/Toman-Bike-Share-Metrics-Dashboard-for-Data-Driven-Decisions/assets/163035610/5efd7fd2-57e1-4e24-bf7f-8a4a46a2b0a4)
+
 
 
 This repository contains the code and resources for developing a dashboard for "Toman Bike Share." The dashboard aims to display key performance metrics to facilitate informed decision-making within the organization.
@@ -10,9 +11,6 @@ This repository contains the code and resources for developing a dashboard for "
 
 - **Power BI:** The dashboard is developed using Power BI for data visualization and analysis.
 
-## Data Source
-The necessary datasets can be found in the link given below:
-https://github.com/Gaelim/YT_bike_share
 
 ## SQL Code
 Below is the snippet of the SQL query used to create a new table for dashboard development:
@@ -59,7 +57,9 @@ on a.yr = b.yr
  
 ## Final Dashboard
 
-![Screenshot (28)](https://github.com/theliwash/Toman-Bike-Share-Metrics-Dashboard-for-Data-Driven-Decisions/assets/163035610/8aad75de-c3e1-46e5-b79d-932912c7ec3f)
+![Screenshot (23)](https://github.com/Sundaraiah-YR/Bike_Share_Metrics/assets/173929318/69446aa9-e89d-4231-a083-b97b03830ab4)
+
+
 
 
 ## Usage
