@@ -9,7 +9,6 @@ This repository contains the code and resources for developing a dashboard for "
 
 ## End-End Data Analysis Project
 ## Pseudocode
--What's the general approach in creating this solution from start to finish?
 -Get the dataset from kaggle
 -Explore the data in Excel
 -Load the data into SQL Server
