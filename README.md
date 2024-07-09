@@ -7,10 +7,17 @@
 
 This repository contains the code and resources for developing a dashboard for "Toman Bike Share." The dashboard aims to display key performance metrics to facilitate informed decision-making within the organization.
 
-## Tech Stack
-- **SQL:** Data is queried and manipulated using SQL for database operations in this dashboard development. 
-
-- **Power BI:** The dashboard is developed using Power BI for data visualization and analysis.
+## End-End Data Analysis Project
+## Pseudocode
+>What's the general approach in creating this solution from start to finish?
+1.Get the data from kaggle
+2.Explore the data in Excel
+3.Load the data into SQL Server
+4.Clean the data with SQL
+5.Test the data with SQL
+6.Visualize the data in Power BI
+7.Generate the findings based on the insights
+8.Publish the data to GitHub Pages
 
 
 ## SQL Code
@@ -58,7 +65,7 @@ on a.yr = b.yr
  
 ## Final Dashboard
 
-![Screenshot 2024-07-09 123951](https://github.com/Sundaraiah-YR/Bike_Share_Metrics/assets/173929318/5dae81e8-9514-4354-9ff3-6fb73b20b4e8)
+![Rider_project](https://github.com/Sundaraiah-YR/Bike_Share_Metrics/assets/173929318/39464164-c57b-4581-b972-5a4433ca087c)
 
 
 
