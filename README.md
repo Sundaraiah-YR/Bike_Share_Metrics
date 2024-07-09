@@ -10,9 +10,9 @@ This repository contains the code and resources for developing a dashboard for "
 ## End-to-End Data Analysis Project
 - Get the dataset from kaggle
 - Explore the data in Excel
-- Load the data into SQL Server
-- Clean the data with SQL
-- Test the data with SQL
+- Load the data into SQL Database
+- Develop SQL queries
+- Connect Power BI to your database
 - Visualize the data in Power BI
 - Generate the findings based on the insights
 - Publish the data to GitHub Pages
