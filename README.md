@@ -10,14 +10,14 @@ This repository contains the code and resources for developing a dashboard for "
 ## End-End Data Analysis Project
 ## Pseudocode
 -What's the general approach in creating this solution from start to finish?
-1.Get the dataset from kaggle
-2.Explore the data in Excel
-3.Load the data into SQL Server
-4.Clean the data with SQL
-5.Test the data with SQL
-6.Visualize the data in Power BI
-7.Generate the findings based on the insights
-8.Publish the data to GitHub Pages
+-Get the dataset from kaggle
+-Explore the data in Excel
+-Load the data into SQL Server
+-Clean the data with SQL
+-Test the data with SQL
+-Visualize the data in Power BI
+-Generate the findings based on the insights
+-Publish the data to GitHub Pages
 
 
 ## SQL Code
