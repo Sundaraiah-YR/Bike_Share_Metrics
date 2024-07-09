@@ -57,7 +57,7 @@ on a.yr = b.yr
  
 ## Final Dashboard
 
-![Screenshot (23)](https://github.com/Sundaraiah-YR/Bike_Share_Metrics/assets/173929318/69446aa9-e89d-4231-a083-b97b03830ab4)
+![Screenshot 2024-07-09 123951](https://github.com/Sundaraiah-YR/Bike_Share_Metrics/assets/173929318/5dae81e8-9514-4354-9ff3-6fb73b20b4e8)
 
 
 
