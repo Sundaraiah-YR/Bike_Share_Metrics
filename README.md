@@ -7,8 +7,7 @@
 
 This repository contains the code and resources for developing a dashboard for "Toman Bike Share." The dashboard aims to display key performance metrics to facilitate informed decision-making within the organization.
 
-## End-End Data Analysis Project
-## Pseudocode
+## End-to-End Data Analysis Project
 -Get the dataset from kaggle
 -Explore the data in Excel
 -Load the data into SQL Server
